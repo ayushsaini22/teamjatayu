@@ -247,7 +247,7 @@ nav ul li a{
 	height: 48vh;
 	position: absolute;
 	display: inline-block;
-	background-image: url('images/img1.jpg');
+	background-image: url('img1.jpg');
 	background-size: 150% 150%;
 	border-radius: 50px;
 	overflow: hidden;
@@ -286,7 +286,7 @@ nav ul li a{
 	left: 1vw;
 	width: 15vh;
 	height: 15vh;
-	background: url("images/gear.png");
+	background: url("gear.png");
 	background-size: 100% 100%;
 	border-radius: 50%;
 	z-index: 3;
